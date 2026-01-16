@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Yavuz Uzun</h1>
 <h3 align="center">Ankara üniversitesinde dijital fabrika teknolojileri öğrencisiyim.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:yavuzuzn6@gmail.com </h3>
 <p align="left">
 </p>
 
